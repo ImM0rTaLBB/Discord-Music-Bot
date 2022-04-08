@@ -17,4 +17,4 @@ async def on_ready():
         status=discord.Status.idle, 
         activity=discord.Game('Tracks from YouTube!'))
 
-bot.run("OTUzMDAwMzc0NzQxMTM1Mzgw.Yi-Mww.48o0KmOhmOGEdaSIVjQvYR5_r8Y")
+bot.run("YOUR TOKEN")
